@@ -13,7 +13,6 @@ body {
 /*apply styles to the headers/footers*/
 header {
     padding: 20px 35px;
-    background-color: #39a6b2;
 }
 
 header h1 {
@@ -69,6 +68,11 @@ footer a {
 /*end of header/footer styling*/
 
 /*apply styling to form*/
+
+.hero-intro {
+    display: inline-block;
+    color:#fce138;
+}
 
 section {
     padding: 60px;
